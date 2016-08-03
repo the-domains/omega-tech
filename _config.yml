@@ -1,0 +1,14 @@
+name: 'Omega Tech '
+layout_spectrum: 0.13686705938459232
+typography_spectrum: 0.983026971736221
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.8434531127896077
+  lightness: 0.932570105684651
+  saturation: 0.15215814223756363
+  rhythmicContrast: 0.2896305441624405
